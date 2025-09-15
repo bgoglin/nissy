@@ -1,7 +1,3 @@
-# Web Nissy
-
-[Try Web Nissy](https://cubingapp.com/nissy)
-
 # What is Web Nissy?
 Web Nissy is just like Nissy, except it runs in a website.
 
